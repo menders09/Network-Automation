@@ -1,0 +1,6 @@
+My lab topology for the network automation course:
+My lab topology is failrly simple.My lab topology is fairly simple.  At this very moment, I have configured two IOS based routers in VIRL.  Furthermore, I’m running a Ubuntu VM for Ansible, Vragant etc., etc.  In order to communicate from an external source towards the routers running in VIRL I configured FLAT connectivity in VIRL.
+As said quite a simple setup. The plan is to add complexity along the learning path.
+
+Best regards,
+Marc
