@@ -1,4 +1,5 @@
-Lab setup for network automation course.
+Hi Ivan, herewith a short description of the lab I use during the network autoamtion course.
+
 Currently my lab topology is failrly simple. At this very moment, I have configured two IOS based routers in VIRL.  Furthermore, I’m running an Ubuntu VM for Ansible, Vragant etc., etc.  In order to communicate from an external source towards the routers running in VIRL I configured FLAT connectivity in VIRL. As said quite a simple setup. The plan is to add complexity along the learning path.
 
 Best regards,
